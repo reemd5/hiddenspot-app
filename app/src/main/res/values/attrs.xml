@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="LimitedHeightSpinner">
+        <attr name="maxPopupHeight" format="dimension" />
+    </declare-styleable>
+</resources>

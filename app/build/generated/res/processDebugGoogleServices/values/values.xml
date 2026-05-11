@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">965040369178</string>
+    <string name="google_api_key" translatable="false">AIzaSyAiR28Mc9oQKcBWMauJNeW1GtgRt5SWaUU</string>
+    <string name="google_app_id" translatable="false">1:965040369178:android:55a0005dc133882d4aeba3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAiR28Mc9oQKcBWMauJNeW1GtgRt5SWaUU</string>
+    <string name="google_storage_bucket" translatable="false">hiddenspot-a9359.firebasestorage.app</string>
+    <string name="project_id" translatable="false">hiddenspot-a9359</string>
+</resources>

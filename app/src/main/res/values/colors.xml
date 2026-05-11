@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary: amber/orange hsl(38,92%,50%) -->
+    <color name="primary">#F5A623</color>
+    <color name="primary_dark">#D4891A</color>
+    <color name="primary_foreground">#FFFFFF</color>
+
+    <!-- Secondary: teal hsl(174,58%,40%) -->
+    <color name="secondary">#29A98A</color>
+    <color name="secondary_foreground">#FFFFFF</color>
+
+    <!-- Accent: coral hsl(16,80%,58%) -->
+    <color name="accent">#E8714A</color>
+    <color name="accent_foreground">#FFFFFF</color>
+
+    <!-- Background: warm white hsl(40,33%,98%) -->
+    <color name="background">#FDFAF6</color>
+
+    <!-- Foreground: dark brown hsl(20,10%,15%) -->
+    <color name="foreground">#272320</color>
+
+    <!-- Card: white -->
+    <color name="card">#FFFFFF</color>
+    <color name="card_foreground">#272320</color>
+
+    <!-- Muted: hsl(40,20%,94%) -->
+    <color name="muted">#F0EDE6</color>
+    <color name="muted_foreground">#7A6F67</color>
+
+    <!-- Border: hsl(40,15%,88%) -->
+    <color name="border_color">#E2DDD4</color>
+
+    <!-- Destructive: red -->
+    <color name="destructive">#E53935</color>
+    <color name="destructive_foreground">#FFFFFF</color>
+
+    <!-- Surface warm -->
+    <color name="surface_warm">#F7F2EB</color>
+
+    <!-- Category badge colors -->
+    <color name="badge_restaurant">#D94040</color>
+    <color name="badge_garden">#3DAA5C</color>
+    <color name="badge_cafe">#E07830</color>
+    <color name="badge_viewpoint">#3A7FCC</color>
+    <color name="badge_park">#2E8B47</color>
+    <color name="badge_beach">#1AABCC</color>
+    <color name="badge_library">#8B55CC</color>
+    <color name="badge_shop">#CC3D8A</color>
+    <color name="badge_historical">#A0622A</color>
+
+    <!-- Upvote green / downvote red -->
+    <color name="upvote_green">#388E3C</color>
+    <color name="upvote_bg">#E8F5E9</color>
+    <color name="downvote_red">#C62828</color>
+    <color name="downvote_bg">#FFEBEE</color>
+
+    <!-- Star yellow -->
+    <color name="star_color">#F5A623</color>
+
+    <!-- Transparent overlays -->
+    <color name="overlay_dark">#99000000</color>
+    <color name="overlay_light">#CCFFFFFF</color>
+
+    <!-- Status bar -->
+    <color name="status_bar">#D4891A</color>
+</resources>

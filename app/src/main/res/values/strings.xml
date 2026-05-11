@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HiddenSpot</string>
+    <string name="tagline">Discover local secrets</string>
+
+    <!-- Auth -->
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="join_hiddenspot">Join HiddenSpot</string>
+    <string name="sign_in_subtitle">Sign in to discover hidden gems</string>
+    <string name="sign_up_subtitle">Create an account to start sharing</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="continue_google">Google</string>
+    <string name="continue_apple">Apple</string>
+    <string name="no_account">Don\'t have an account? </string>
+    <string name="have_account">Already have an account? </string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Home -->
+    <string name="hidden_gems_near_you">Hidden Gems Near You</string>
+    <string name="places_discovered">%d places discovered</string>
+    <string name="search_hint">Search places, cities…</string>
+    <string name="spots_suffix"> Spots</string>
+    <string name="category_all">All</string>
+
+    <!-- Place Card -->
+    <string name="rating_format">%s (%d)</string>
+    <string name="upvotes_format">%d</string>
+
+    <!-- Place Details -->
+    <string name="open_in_maps">Open in Maps</string>
+    <string name="call">Call</string>
+    <string name="share">Share</string>
+    <string name="posted_by">Posted by %s</string>
+    <string name="posted_on">Posted on %s</string>
+    <string name="place_not_found">Place not found</string>
+
+    <!-- Search -->
+    <string name="search_title">Search Places</string>
+    <string name="search_subtitle">Find your next hidden gem</string>
+    <string name="search_keyword_hint">Search by name or keyword…</string>
+    <string name="all_cities">All Cities</string>
+    <string name="results_count">%d results</string>
+    <string name="no_places_found">No places found</string>
+    <string name="no_search_match">No places match your search</string>
+
+    <!-- Favorites -->
+    <string name="my_favorites">My Favorites</string>
+    <string name="saved_places">%d saved places</string>
+    <string name="no_favorites_title">No favorites yet</string>
+    <string name="no_favorites_subtitle">Tap the heart icon on any place to save it here</string>
+
+    <!-- Profile -->
+    <string name="my_profile">My Profile</string>
+    <string name="posts_label">Posts</string>
+    <string name="likes_label">Likes</string>
+    <string name="avg_rating_label">Avg Rating</string>
+    <string name="my_posts">My Posts</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="discovering_since">Discovering hidden gems since 2025</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_ratings">My Ratings</string>
+    <string name="notifications">Notifications</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="display_name">Display Name</string>
+    <string name="bio_hint">Add a short bio</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="posts_count_format">%d Posts</string>
+    <string name="favorites_count_format">%d Favorites</string>
+
+    <!-- Add Place -->
+    <string name="add_new_place">Add New Place</string>
+    <string name="photos_label">Photos</string>
+    <string name="upload_label">Upload</string>
+    <string name="camera_label">Camera</string>
+    <string name="place_name_label">Place Name</string>
+    <string name="place_name_hint">e.g. The Secret Garden</string>
+    <string name="category_label">Category</string>
+    <string name="select_category">Select a category</string>
+    <string name="city_label">City</string>
+    <string name="city_hint">e.g. Tripoli</string>
+    <string name="address_label">Address</string>
+    <string name="address_hint">Street address</string>
+    <string name="phone_label">Phone Number (optional)</string>
+    <string name="phone_hint">+961 …</string>
+    <string name="description_label">Description</string>
+    <string name="description_hint">What makes this place special? Tell others why they should visit…</string>
+    <string name="submit_btn">Share This Hidden Gem</string>
+    <string name="submit_success">Place submitted successfully!</string>
+
+    <!-- Categories -->
+    <string-array name="categories">
+        <item>Restaurant</item>
+        <item>Garden</item>
+        <item>Café</item>
+        <item>Viewpoint</item>
+        <item>Park</item>
+        <item>Beach</item>
+        <item>Library</item>
+        <item>Shop</item>
+        <item>Historical</item>
+    </string-array>
+
+    <!-- Cities -->
+    <string-array name="cities">
+        <item>All</item>
+        <item>Tripoli</item>
+        <item>Beirut</item>
+        <item>Byblos</item>
+        <item>Batroun</item>
+    </string-array>
+</resources>

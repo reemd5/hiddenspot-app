@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/dialog_notifications.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/dialog_notifications.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/fragment_favorites.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/activity_main.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/dialog_help_support.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/dialog_help_support.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/dialog_my_ratings.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/dialog_my_ratings.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/dialog_edit_profile.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/dialog_edit_profile.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/item_place_card.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/item_place_card.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/fragment_home.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/fragment_search.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/activity_map.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/activity_map.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/activity_auth.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/activity_auth.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/item_review.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/item_review.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/activity_edit_profile.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/item_profile_menu_row.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/item_profile_menu_row.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/activity_splash.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/activity_place_details.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/activity_place_details.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/activity_add_place.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/activity_add_place.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/item_notification.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/item_notification.xml"
+    },
+    {
+        "merged": "com.hiddenspot.app-mergeDebugResources-67:/layout/fragment_profile.xml",
+        "source": "com.hiddenspot.app-main-70:/layout/fragment_profile.xml"
+    }
+]

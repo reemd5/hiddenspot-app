@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base app theme -->
+    <style name="Theme.HiddenSpot" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/card</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textColor">@color/foreground</item>
+        <item name="materialButtonStyle">@style/Widget.HiddenSpot.Button</item>
+        <item name="android:colorBackground">@color/background</item>
+    </style>
+
+    <!-- Splash theme (no action bar, primary background) -->
+    <style name="Theme.HiddenSpot.Splash" parent="Theme.HiddenSpot">
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/primary</item>
+    </style>
+
+    <!-- Material Button style -->
+    <style name="Widget.HiddenSpot.Button" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">12dp</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/primary_foreground</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+    </style>
+
+    <!-- Outline Button -->
+    <style name="Widget.HiddenSpot.Button.Outline" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerRadius">12dp</item>
+        <item name="strokeColor">@color/border_color</item>
+        <item name="android:textColor">@color/foreground</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <!-- Destructive outline button -->
+    <style name="Widget.HiddenSpot.Button.Destructive" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerRadius">12dp</item>
+        <item name="strokeColor">@color/destructive</item>
+        <item name="android:textColor">@color/destructive</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <!-- Card style -->
+    <style name="Widget.HiddenSpot.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/card</item>
+        <item name="contentPaddingBottom">0dp</item>
+        <item name="contentPaddingTop">0dp</item>
+        <item name="contentPaddingLeft">0dp</item>
+        <item name="contentPaddingRight">0dp</item>
+    </style>
+
+    <!-- Elevated card -->
+    <style name="Widget.HiddenSpot.Card.Elevated" parent="Widget.HiddenSpot.Card">
+        <item name="cardElevation">6dp</item>
+    </style>
+
+    <!-- Input fields -->
+    <style name="Widget.HiddenSpot.TextInput" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxBackgroundColor">@color/muted</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="boxStrokeWidthFocused">0dp</item>
+        <item name="hintTextColor">@color/muted_foreground</item>
+        <item name="android:textColorHint">@color/muted_foreground</item>
+    </style>
+
+    <!-- Heading text -->
+    <style name="TextAppearance.HiddenSpot.Heading" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:textColor">@color/foreground</item>
+    </style>
+
+    <style name="TextAppearance.HiddenSpot.Heading.Large">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TextAppearance.HiddenSpot.Heading.Medium">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextAppearance.HiddenSpot.Heading.Small">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!-- Body text -->
+    <style name="TextAppearance.HiddenSpot.Body" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textColor">@color/foreground</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="TextAppearance.HiddenSpot.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textColor">@color/muted_foreground</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <!-- Bottom Nav -->
+    <style name="Widget.HiddenSpot.BottomNav" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemTextColor">@color/bottom_nav_color</item>
+        <item name="itemIconTint">@color/bottom_nav_color</item>
+        <item name="backgroundColor">@color/card</item>
+        <item name="elevation">8dp</item>
+        <item name="labelVisibilityMode">labeled</item>
+    </style>
+
+</resources>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Restaurant</item>
+        <item>Garden</item>
+        <item>Café</item>
+        <item>Viewpoint</item>
+        <item>Park</item>
+        <item>Beach</item>
+        <item>Library</item>
+        <item>Shop</item>
+        <item>Historical</item>
+    </string-array>
+    <string-array name="cities">
+        <item>All</item>
+        <item>Tripoli</item>
+        <item>Beirut</item>
+        <item>Byblos</item>
+        <item>Batroun</item>
+    </string-array>
+    <color name="accent">#E8714A</color>
+    <color name="accent_foreground">#FFFFFF</color>
+    <color name="background">#FDFAF6</color>
+    <color name="badge_beach">#1AABCC</color>
+    <color name="badge_cafe">#E07830</color>
+    <color name="badge_garden">#3DAA5C</color>
+    <color name="badge_historical">#A0622A</color>
+    <color name="badge_library">#8B55CC</color>
+    <color name="badge_park">#2E8B47</color>
+    <color name="badge_restaurant">#D94040</color>
+    <color name="badge_shop">#CC3D8A</color>
+    <color name="badge_viewpoint">#3A7FCC</color>
+    <color name="border_color">#E2DDD4</color>
+    <color name="card">#FFFFFF</color>
+    <color name="card_foreground">#272320</color>
+    <color name="destructive">#E53935</color>
+    <color name="destructive_foreground">#FFFFFF</color>
+    <color name="downvote_bg">#FFEBEE</color>
+    <color name="downvote_red">#C62828</color>
+    <color name="foreground">#272320</color>
+    <color name="muted">#F0EDE6</color>
+    <color name="muted_foreground">#7A6F67</color>
+    <color name="overlay_dark">#99000000</color>
+    <color name="overlay_light">#CCFFFFFF</color>
+    <color name="primary">#F5A623</color>
+    <color name="primary_dark">#D4891A</color>
+    <color name="primary_foreground">#FFFFFF</color>
+    <color name="secondary">#29A98A</color>
+    <color name="secondary_foreground">#FFFFFF</color>
+    <color name="star_color">#F5A623</color>
+    <color name="status_bar">#D4891A</color>
+    <color name="surface_warm">#F7F2EB</color>
+    <color name="upvote_bg">#E8F5E9</color>
+    <color name="upvote_green">#388E3C</color>
+    <string name="add_new_place">Add New Place</string>
+    <string name="address_hint">Street address</string>
+    <string name="address_label">Address</string>
+    <string name="all_cities">All Cities</string>
+    <string name="app_name">HiddenSpot</string>
+    <string name="avg_rating_label">Avg Rating</string>
+    <string name="bio_hint">Add a short bio</string>
+    <string name="call">Call</string>
+    <string name="camera_label">Camera</string>
+    <string name="category_all">All</string>
+    <string name="category_label">Category</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="city_hint">e.g. Tripoli</string>
+    <string name="city_label">City</string>
+    <string name="continue_apple">Apple</string>
+    <string name="continue_google">Google</string>
+    <string name="create_account">Create Account</string>
+    <string name="description_hint">What makes this place special? Tell others why they should visit…</string>
+    <string name="description_label">Description</string>
+    <string name="discovering_since">Discovering hidden gems since 2025</string>
+    <string name="display_name">Display Name</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="email_hint">Email</string>
+    <string name="favorites_count_format">%d Favorites</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="gcm_defaultSenderId" translatable="false">965040369178</string>
+    <string name="google_api_key" translatable="false">AIzaSyAiR28Mc9oQKcBWMauJNeW1GtgRt5SWaUU</string>
+    <string name="google_app_id" translatable="false">1:965040369178:android:55a0005dc133882d4aeba3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAiR28Mc9oQKcBWMauJNeW1GtgRt5SWaUU</string>
+    <string name="google_storage_bucket" translatable="false">hiddenspot-a9359.firebasestorage.app</string>
+    <string name="have_account">Already have an account? </string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="hidden_gems_near_you">Hidden Gems Near You</string>
+    <string name="join_hiddenspot">Join HiddenSpot</string>
+    <string name="likes_label">Likes</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="my_posts">My Posts</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_ratings">My Ratings</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_search">Search</string>
+    <string name="no_account">Don\'t have an account? </string>
+    <string name="no_favorites_subtitle">Tap the heart icon on any place to save it here</string>
+    <string name="no_favorites_title">No favorites yet</string>
+    <string name="no_places_found">No places found</string>
+    <string name="no_search_match">No places match your search</string>
+    <string name="notifications">Notifications</string>
+    <string name="open_in_maps">Open in Maps</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="password_hint">Password</string>
+    <string name="phone_hint">+961 …</string>
+    <string name="phone_label">Phone Number (optional)</string>
+    <string name="photos_label">Photos</string>
+    <string name="place_name_hint">e.g. The Secret Garden</string>
+    <string name="place_name_label">Place Name</string>
+    <string name="place_not_found">Place not found</string>
+    <string name="places_discovered">%d places discovered</string>
+    <string name="posted_by">Posted by %s</string>
+    <string name="posted_on">Posted on %s</string>
+    <string name="posts_count_format">%d Posts</string>
+    <string name="posts_label">Posts</string>
+    <string name="project_id" translatable="false">hiddenspot-a9359</string>
+    <string name="rating_format">%s (%d)</string>
+    <string name="results_count">%d results</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="saved_places">%d saved places</string>
+    <string name="search_hint">Search places, cities…</string>
+    <string name="search_keyword_hint">Search by name or keyword…</string>
+    <string name="search_subtitle">Find your next hidden gem</string>
+    <string name="search_title">Search Places</string>
+    <string name="select_category">Select a category</string>
+    <string name="share">Share</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_subtitle">Sign in to discover hidden gems</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_subtitle">Create an account to start sharing</string>
+    <string name="spots_suffix"> Spots</string>
+    <string name="submit_btn">Share This Hidden Gem</string>
+    <string name="submit_success">Place submitted successfully!</string>
+    <string name="tagline">Discover local secrets</string>
+    <string name="upload_label">Upload</string>
+    <string name="upvotes_format">%d</string>
+    <string name="username_hint">Username</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <style name="TextAppearance.HiddenSpot.Body" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textColor">@color/foreground</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="TextAppearance.HiddenSpot.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textColor">@color/muted_foreground</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+    <style name="TextAppearance.HiddenSpot.Heading" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:textColor">@color/foreground</item>
+    </style>
+    <style name="TextAppearance.HiddenSpot.Heading.Large">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextAppearance.HiddenSpot.Heading.Medium">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextAppearance.HiddenSpot.Heading.Small">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="Theme.HiddenSpot" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/card</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textColor">@color/foreground</item>
+        <item name="materialButtonStyle">@style/Widget.HiddenSpot.Button</item>
+        <item name="android:colorBackground">@color/background</item>
+    </style>
+    <style name="Theme.HiddenSpot.Splash" parent="Theme.HiddenSpot">
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/primary</item>
+    </style>
+    <style name="Widget.HiddenSpot.BottomNav" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemTextColor">@color/bottom_nav_color</item>
+        <item name="itemIconTint">@color/bottom_nav_color</item>
+        <item name="backgroundColor">@color/card</item>
+        <item name="elevation">8dp</item>
+        <item name="labelVisibilityMode">labeled</item>
+    </style>
+    <style name="Widget.HiddenSpot.Button" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">12dp</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/primary_foreground</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+    </style>
+    <style name="Widget.HiddenSpot.Button.Destructive" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerRadius">12dp</item>
+        <item name="strokeColor">@color/destructive</item>
+        <item name="android:textColor">@color/destructive</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="Widget.HiddenSpot.Button.Outline" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerRadius">12dp</item>
+        <item name="strokeColor">@color/border_color</item>
+        <item name="android:textColor">@color/foreground</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="Widget.HiddenSpot.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/card</item>
+        <item name="contentPaddingBottom">0dp</item>
+        <item name="contentPaddingTop">0dp</item>
+        <item name="contentPaddingLeft">0dp</item>
+        <item name="contentPaddingRight">0dp</item>
+    </style>
+    <style name="Widget.HiddenSpot.Card.Elevated" parent="Widget.HiddenSpot.Card">
+        <item name="cardElevation">6dp</item>
+    </style>
+    <style name="Widget.HiddenSpot.TextInput" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxBackgroundColor">@color/muted</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="boxStrokeWidthFocused">0dp</item>
+        <item name="hintTextColor">@color/muted_foreground</item>
+        <item name="android:textColorHint">@color/muted_foreground</item>
+    </style>
+    <declare-styleable name="LimitedHeightSpinner">
+        <attr format="dimension" name="maxPopupHeight"/>
+    </declare-styleable>
+</resources>
